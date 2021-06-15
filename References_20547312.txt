@@ -1,0 +1,49 @@
+References and the links for the references
+
+Tutorial 1 and Tutorial 3
+
+Links to the external References:-
+Video References:-
+
+https://www.youtube.com/watch?v=phyV-OQNeRM&t=4885s
+https://www.youtube.com/watch?v=qm29vYcYBeg
+https://www.youtube.com/watch?v=gSfMNjWNoX0&t=830s
+https://www.youtube.com/watch?v=L9HhSoFDevo&t=65s
+https://www.youtube.com/watch?v=1i5yvDvpBgs&t=303s
+https://www.youtube.com/watch?v=FJ76vL_EwXA
+https://www.youtube.com/watch?v=lJph_kKQTQA&t=1874s
+https://www.youtube.com/watch?v=0iT1q7U-XeA&t=28s
+https://www.youtube.com/watch?v=nlFVQddx1wc&t=967s
+https://www.youtube.com/watch?v=OVzX31hqIvc&t=244s
+https://www.youtube.com/watch?v=QzjKKfu0w5A&t=126s
+https://www.youtube.com/watch?v=iwvJ26DTK3w&t=420s
+https://www.youtube.com/watch?v=cST5TT3OFyg&t=813s
+https://www.youtube.com/watch?v=Rb0YBOhEBCE&t=25s
+https://www.youtube.com/watch?v=OruHfoZv1Vg
+https://www.youtube.com/watch?v=nlFVQddx1wc&t=980s
+https://www.youtube.com/watch?v=N9ZN5yhJSAI&t=348s
+https://www.youtube.com/watch?v=nlFVQddx1wc&t=988s
+https://www.youtube.com/watch?v=nlFVQddx1wc&t=1003s
+https://www.youtube.com/watch?v=0g3g2h2VpOo&t=408s
+https://www.youtube.com/watch?v=cULREh4CLGc
+https://www.youtube.com/watch?v=LXZnuJY0dGI&t=842s
+https://www.youtube.com/watch?v=j6ShXTjG5fg
+https://www.youtube.com/watch?v=QcbOSFAyHpM
+https://www.youtube.com/watch?v=MPOuci-6amQ&t=232s
+https://www.youtube.com/watch?v=E7Voso411Vs&t=153s
+https://www.youtube.com/watch?v=ifbYA8hyvjc
+https://www.youtube.com/watch?v=lx2tSY4joDg
+https://www.youtube.com/watch?v=Fzckqczmgd0&t=6s
+https://www.youtube.com/watch?v=lx2tSY4joDg&t=9s
+
+Other References:-
+https://www.newtonsoft.com/json/help/html/DeserializeCollection.htm
+https://stackoverflow.com/questions/38260018/passing-data-between-pages-c-sharp-wpf
+https://stackoverflow.com/questions/4222184/c-sharp-wpf-how-to-change-which-window-opens-first
+https://social.msdn.microsoft.com/Forums/vstudio/en-US/f1ea74ce-fd91-46c6-83bd-90cba1528b04/how-to-get-values-from-one-wpf-page-to-another-wpf-page?forum=wpf
+https://www.c-sharpcorner.com/UploadFile/1e050f/creating-and-using-dll-class-library-in-C-Sharp/
+https://stackoverflow.com/questions/37495688/how-to-use-a-common-class-interface-between-a-console-program-and-a-dll
+https://www.winsocketdotnetworkprogramming.com/clientservernetremotingnetwork12a.html
+https://stackoverflow.com/questions/668907/how-to-delete-a-line-from-a-text-file-in-c
+https://docs.microsoft.com/en-us/dotnet/csharp/how-to/search-strings
+https://stackoverflow.com/questions/14517798/append-values-to-query-string
